@@ -1,12 +1,8 @@
-## Hi there 👋
+# Welcome to KODE Team
 
 
+# Projects 
 
-**Here are some ideas to get you started:**
-
-* 🙋‍♀️ A short introduction - what is your organization all about?
-* 🌈 Contribution guidelines - how can the community get involved?
-* 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-* 🍿 Fun facts - what does your team eat for breakfast?
-* 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+* [mastodon.nvim](https://github.com/kode-team/mastodon.nvim) - Mastodon client for Neovim (`mastodon`, `neovim-plugin`, `mastodon-client`, `lua`, `neovim`)
+* [easylogic.studio](https://github.com/kode-team/easylogic.studio) - Fantastic Web Design Tool
+* [codemirror-colorpicker](https://github.com/kode-team/codemirror-colorpicker) - colorpicker with codemirror5
